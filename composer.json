@@ -1,5 +1,6 @@
 {
     "name": "gaopengfei/swoole_server",
+    "license": "GPL",
     "authors": [
         {
             "name": "gaofeifiy",
